@@ -57,9 +57,8 @@ Aim to educate children on playing the piano, we developed an easy-to-use applic
 
 ## Startup Team of [Mental Pressure Manager](https://www.cyzone.cn/company/346748.html)
 Mental Pressure Manager is a biotechnology-based medical hardware device targeted to detect the psychological pressure by cortisol through the strip test.
-I collaborated with teammates with biomedical background to design the structure of the product and following iteration.
-Communicated with investment institutions about the startup projects
-Started up the Huace Kangnuo (Wuhan) Biotechnology Inc. for the product
+
+I collaborated with teammates with biomedical background and served as a Product Manager, in charge of designing the structure of the product. Our product aimed to detect the psychological pressure by an automated strip test of cortisol, based on Internet of Things and mobile health techniques. I communicated with investment institutions about the startup projects and started up the Huace Kangnuo (Wuhan) Biotechnology Inc. for the product. The project has been completed, and this opportunity to incorporate technologies of different fields still widened my horizon.
 
 <table>
     <tr>
