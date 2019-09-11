@@ -2,6 +2,26 @@
 
 Hello! Here are some examples of my previous work.
 
+## Software Quality Assurance (QA) Developer Intern at Shanghai ByteDance Technology Co., Ltd.
+This summer, I worked as a software quality assurance intern at Shanghai Bytedance Company. In the 5 months, I designed and built a continuous platform for automated testing in the large-scale system by Jenkins in JAVA.
+
+Expertly utilized tools to track bugs, I implemented and achieved 16 times accelerate automated test evaluation on 1,400,000 data by using multi-process in Python. Various algorithms were tested by me in OCR text recognition, image recognition and data mining, reduced 5 times manpower in 3 systems. 
+
+By the way ,I also collaborated with business and development team to prioritize assignments and manage risks/issues to ensure successful delivery with high quality.
+
+<table>
+    <tr>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/bytedance1.jpg" > <br> Fig. 1 Group photo (I am at the center) </div></td>
+        <td><div align=center><img width=85% height=85% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/bytedance2.jpg"  > <br> Fig. 2 Got a warm letter from my colleagues </div></td>
+    </tr>
+    <tr>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/bytedance3.png" > <br> Fig. 3 A diagram from my work report </div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/bytedance4.png"  > <br> Fig. 4 Snapshot of my code</div></td>
+    </tr>
+    
+</table>
+
+
 ## Research Intern at Electromagnetic Compatibility Lab, Missouri University of Science and Technology
 During the last summer, I was a research intern at EMC Lab in MST. I delved into Emission Source Microscopy (ESM) by referring to previous publication under supervision of Prof. Victor Khilkevich. My research work mainly focus on applying the computer vision method for 3D map and trajectories reconstruction.
 
@@ -11,15 +31,15 @@ By the way, I also promoted the development of circuit board surface current mea
 
 <table>
     <tr>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/EMC4.jpg" > <br> Fig. 1 Group photo (I am at the center) </div></td>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/EMC1.jpg"  > <br> Fig. 2 Picture with my supervisor </div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/EMC4.jpg" > <br> Fig. 5 Group photo (I am at the center) </div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/EMC1.jpg"  > <br> Fig. 6 Picture with my supervisor </div></td>
     </tr>
     <tr>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/EMC2.jpg"  > <br> Fig. 3 The experiment settings</div></td>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/EMC5.png"  > <br> Fig. 4 The experiment scheme diagram</div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/EMC2.jpg"  > <br> Fig. 7 The experiment settings</div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/EMC5.png"  > <br> Fig. 8 The experiment scheme diagram</div></td>
     </tr>
     <tr>
-        <td colspan="2"><div align=center><img width=60% height=60% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/EMC3.gif"> <br> Fig. 5 The animation of my program</div></td>
+        <td colspan="2"><div align=center><img width=60% height=60% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/EMC3.gif"> <br> Fig. 9 The animation of my program</div></td>
     </tr>
 </table>
 
@@ -32,12 +52,12 @@ Later, I developed an indoor high-precision indoor positioning system and publis
 
 <table>
     <tr>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/indoor1.png" > <br> Fig. 6 The snapshot of the paper </div></td>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/indoor2.png"  > <br> Fig. 7 The scheme diagram </div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/indoor1.png" > <br> Fig. 10 The snapshot of the paper </div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/indoor2.png"  > <br> Fig. 11 The scheme diagram </div></td>
     </tr>
     <tr>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/indoor3.png"  > <br> Fig. 8 The experiment settings in a regular teaching building</div></td>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/indoor4.png"  > <br> Fig. 9 The constructed surface radio map</div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/indoor3.png"  > <br> Fig. 12 The experiment settings in a regular teaching building</div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/indoor4.png"  > <br> Fig. 13 The constructed surface radio map</div></td>
     </tr>
 </table>
 
@@ -46,12 +66,12 @@ Aim to educate children on playing the piano, we developed an easy-to-use applic
 
 <table>
     <tr>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pipi1.png" > <br> Fig. 10 The home page of PIPILONG Music </div></td>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pipi2.png"  > <br> Fig. 11 The  friendship page of PIPILONG Music </div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pipi1.png" > <br> Fig. 14 The home page of PIPILONG Music </div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pipi2.png"  > <br> Fig. 15 The  friendship page of PIPILONG Music </div></td>
     </tr>
     <tr>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pipi3.png"  > <br> Fig. 12 The  recent practice page of PIPILONG Music</div></td>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pipi4.png"  > <br> Fig. 13 The  music page of PIPILONG Music</div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pipi3.png"  > <br> Fig. 16 The  recent practice page of PIPILONG Music</div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pipi4.png"  > <br> Fig. 17 The  music page of PIPILONG Music</div></td>
     </tr>
 </table>
 
@@ -62,22 +82,22 @@ I collaborated with teammates with biomedical background and served as a Product
 
 <table>
     <tr>
-        <td colspan="2"><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali2.jpg"> <br> Fig. 14 The description of Mental Pressure Manager</div></td>
+        <td colspan="2"><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali2.jpg"> <br> Fig. 18 The description of Mental Pressure Manager</div></td>
     </tr>
     <tr>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali3.jpg" > <br> Fig. 14 The  structure of the product </div></td>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali4.jpg"  > <br> Fig. 15 A prototype of Mental Pressure Manager </div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali3.jpg" > <br> Fig. 19 The  structure of the product </div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali4.jpg"  > <br> Fig. 20 A prototype of Mental Pressure Manager </div></td>
     </tr>
     <tr>
-        <td><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali5.jpg"  > <br> Fig. 16 A camera is used to photograph the strip</div></td>
-        <td><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali7.jpg"  > <br> Fig. 17 A camera is used to photograph the strip</div></td>
+        <td><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali5.jpg"  > <br> Fig. 21 A camera is used to photograph the strip</div></td>
+        <td><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali7.jpg"  > <br> Fig. 22 A camera is used to photograph the strip</div></td>
     </tr>
     <tr>
-        <td><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali8.jpg"  > <br> Fig. 18 The user interface on Wechat</div></td>
-        <td><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali9.jpg"  > <br> Fig. 19 The user interface on Wechat</div></td>
+        <td><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali8.jpg"  > <br> Fig. 23 The user interface on Wechat</div></td>
+        <td><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali9.jpg"  > <br> Fig. 24 The user interface on Wechat</div></td>
     </tr>
     <tr>
-        <td colspan="2"><div align=center><img width=60% height=60% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali10.jpg"> <br> Fig. 20 We are testing the pressure of elder peoples in a nursing home</div></td>
+        <td colspan="2"><div align=center><img width=60% height=60% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali10.jpg"> <br> Fig. 25 We are testing the pressure of elder peoples in a nursing home</div></td>
     </tr>
 </table>
 
@@ -86,11 +106,11 @@ To relieve the great pressure at instructors' office hours, I developed an AI te
 
 <table>
     <tr>
-        <td colspan="2"><div align=center><img width=60% height=60% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/chatter3.png"> <br> Fig. 21 The diagram of the chatter algorithm</div></td>
+        <td colspan="2"><div align=center><img width=60% height=60% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/chatter3.png"> <br> Fig. 26 The diagram of the chatter algorithm</div></td>
     </tr>
     <tr>
-        <td><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/chatter1.jpg"> <br> Fig. 22 The public account of the AI robot </div></td>
-        <td><div align=center><img width=100% height=100% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/chatter2.jpg"> <br> Fig. 23 A talk with the AI robot </div></td>
+        <td><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/chatter1.jpg"> <br> Fig. 27 The public account of the AI robot </div></td>
+        <td><div align=center><img width=100% height=100% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/chatter2.jpg"> <br> Fig. 28 A talk with the AI robot </div></td>
     </tr>
 </table>
 
@@ -99,10 +119,10 @@ ADALM-PLUTO Software Defined Radio is a portable self-contained RF learning modu
 
 <table>
     <tr>
-        <td colspan="2"><div align=center><img width=60% height=60% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pluto1.png"> <br> Fig. 24 The website of our project</div></td>
+        <td colspan="2"><div align=center><img width=60% height=60% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pluto1.png"> <br> Fig. 29 The website of our project</div></td>
     </tr>
     <tr>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pluto2.png"> <br> Fig. 25 A photo when we are performing communication between two computers </div></td>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pluto3.png"> <br> Fig. 26 A snap shot of the Matlab program </div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pluto2.png"> <br> Fig. 30 A photo when we are performing communication between two computers </div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pluto3.png"> <br> Fig. 31 A snap shot of the Matlab program </div></td>
     </tr>
 </table>
