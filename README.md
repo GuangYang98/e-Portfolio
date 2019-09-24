@@ -57,7 +57,7 @@ Later, I developed an indoor high-precision indoor positioning system and publis
     </tr>
     <tr>
         <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/indoor3.png"  > <br> Fig. 12 The experiment settings in a regular teaching building</div></td>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/indoor4.png"  > <br> Fig. 13 The constructed surface radio map</div></td>
+        <td><div align=center><img width=80% height=80% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/indoor4.png"  > <br> Fig. 13 The constructed surface radio map</div></td>
     </tr>
 </table>
 
@@ -97,7 +97,7 @@ I collaborated with teammates with biomedical background and served as a Product
     </tr>
     <tr>
         <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali3.jpg" > <br> Fig. 21 The  structure of the product </div></td>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali4.jpg"  > <br> Fig. 22 A prototype of Mental Pressure Manager </div></td>
+        <td><div align=center><img width=70% height=70% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali4.jpg"  > <br> Fig. 22 A prototype of Mental Pressure Manager </div></td>
     </tr>
     <tr>
         <td><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali5.jpg"  > <br> Fig. 23 A camera is used to photograph the strip</div></td>
