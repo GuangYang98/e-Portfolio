@@ -3,11 +3,11 @@
 Hello! Here are some examples of my previous work.
 
 ## Software Quality Assurance (QA) Developer Intern at Shanghai ByteDance Technology Co., Ltd.
-This summer, I worked as a software quality assurance intern at Shanghai Bytedance Company. In the 5 months, I designed and built a continuous platform for automated testing in the large-scale system by Jenkins in JAVA.
+This summer, I worked as a software quality assurance intern at Shanghai Bytedance Company (which is famous for launching the TikTok and Douyin APP). In the 5 months, I designed and built a continuous platform for automated testing in the large-scale system by **Jenkins** in **JAVA**. The code can be found at [here](https://github.com/GuangYang98/testGuang).
 
-Expertly utilized tools to track bugs, I implemented and achieved 16 times accelerate automated test evaluation on 1,400,000 data by using multi-process in Python. Various algorithms were tested by me in OCR text recognition, image recognition and data mining, reduced 5 times manpower in 3 systems. 
+Expertly utilized tools to track bugs, I implemented and achieved 16 times accelerate automated test evaluation on 1,400,000 data by using **multi-process in Python and MySQL**. I also used **Bash script** to facilitate my development. Various algorithms were tested by me in OCR text recognition, image recognition and data mining, reduced 5 times manpower in 3 systems. 
 
-By the way ,I also collaborated with business and development team to prioritize assignments and manage risks/issues to ensure successful delivery with high quality.
+By the way ,I also collaborated with business and development team to prioritize assignments and manage risks/issues to ensure successful delivery with high quality. Finally, I successfully launched 6 public web services in total.
 
 <table>
     <tr>
@@ -23,9 +23,9 @@ By the way ,I also collaborated with business and development team to prioritize
 
 
 ## Research Intern at Electromagnetic Compatibility Lab, Missouri University of Science and Technology
-During the last summer, I was a research intern at EMC Lab in MST. I delved into Emission Source Microscopy (ESM) by referring to previous publication under supervision of Prof. Victor Khilkevich. My research work mainly focus on applying the computer vision method for 3D map and trajectories reconstruction.
+During the last summer, I was a research intern at EMC Lab in MST. I led the research of **the world’s leading technology, Emission Source Microscopy**, under supervision of Prof. Victor Khilkevich My research work mainly focus on applying the computer vision method for 3D map and trajectories reconstruction.
 
-I am responsible for writing MATLAB programs for robust data transmission and design algorithms to realize real-time positioning of wireless probes by using Kinect V2. I implemented real-time source plane estimation with friendly GUI (as shown in Fig. 5)
+I designed SLAM algorithms to realize real-time positioning by using Kinect V2, and achieve 0.2 cm accuracy. A MATLAB program also wrote by me for robust UDP transmission with Vector Network Analyzer. I implemented real-time source plane estimation with friendly GUI (as shown in Fig. 5)
 
 By the way, I also promoted the development of circuit board surface current measurement technology during the internship.
 
@@ -61,17 +61,28 @@ Later, I developed an indoor high-precision indoor positioning system and publis
     </tr>
 </table>
 
-## Research Project of [PIPILONG Music](https://www.mamasousuo.com/homepage/#/)
-Aim to educate children on playing the piano, we developed an easy-to-use application on the iOS system. In this project, we made use of the microphone and employed signal processing technique to analyze spectrum to guide the children to play piano. Our APP can display the real-time progress of the practice and the children can be aware of where they make mistakes during the practice. The APP is uploaded to Apple store.
+## Project of HUIYAN Classroom Intelligent Monitor System
+
+I led a project called HUIYAN Classroom Intelligent Monitor System, which monitored the ongoing class of K12 and intelligently analyzed the collected information, for the sake of making suggestions for teachers. First of all, I collected massive video data of teaching in real classroom and established multi-behavior dataset. Taking advantage of the massive dataset, I designed **convolution neural network** in Caffe framework for behavior detection, and achieved **92.8% system accuracy**.
 
 <table>
     <tr>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pipi1.png" > <br> Fig. 14 The home page of PIPILONG Music </div></td>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pipi2.png"  > <br> Fig. 15 The  friendship page of PIPILONG Music </div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/huiyan1.png" > <br> Fig. 14 Visualization of system test result </div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/huiyan2.png"  > <br> Fig. 15 Detection network structure </div></td>
+    </tr>
+</table>
+
+## Project of [PIPILONG Music](https://www.mamasousuo.com/homepage/#/)
+Aim to educate children on playing the piano, we developed an easy-to-use application on the iOS system. In this project, we made use of the microphone and employed signal processing technique to analyze spectrum to guide the children to play piano. I Implemented application on iOS by using **Swift** with beautiful and friendly GUI. Our APP can display the real-time progress of the practice and the children can be aware of where they make mistakes during the practice. The APP is uploaded to Apple store.
+
+<table>
+    <tr>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pipi1.png" > <br> Fig. 16 The home page of PIPILONG Music </div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pipi2.png"  > <br> Fig. 17 The  friendship page of PIPILONG Music </div></td>
     </tr>
     <tr>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pipi3.png"  > <br> Fig. 16 The  recent practice page of PIPILONG Music</div></td>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pipi4.png"  > <br> Fig. 17 The  music page of PIPILONG Music</div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pipi3.png"  > <br> Fig. 18 The  recent practice page of PIPILONG Music</div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pipi4.png"  > <br> Fig. 19 The  music page of PIPILONG Music</div></td>
     </tr>
 </table>
 
@@ -82,22 +93,22 @@ I collaborated with teammates with biomedical background and served as a Product
 
 <table>
     <tr>
-        <td colspan="2"><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali2.jpg"> <br> Fig. 18 The description of Mental Pressure Manager</div></td>
+        <td colspan="2"><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali2.jpg"> <br> Fig. 20 The description of Mental Pressure Manager</div></td>
     </tr>
     <tr>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali3.jpg" > <br> Fig. 19 The  structure of the product </div></td>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali4.jpg"  > <br> Fig. 20 A prototype of Mental Pressure Manager </div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali3.jpg" > <br> Fig. 21 The  structure of the product </div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali4.jpg"  > <br> Fig. 22 A prototype of Mental Pressure Manager </div></td>
     </tr>
     <tr>
-        <td><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali5.jpg"  > <br> Fig. 21 A camera is used to photograph the strip</div></td>
-        <td><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali7.jpg"  > <br> Fig. 22 A camera is used to photograph the strip</div></td>
+        <td><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali5.jpg"  > <br> Fig. 23 A camera is used to photograph the strip</div></td>
+        <td><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali7.jpg"  > <br> Fig. 24 A camera is used to photograph the strip</div></td>
     </tr>
     <tr>
-        <td><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali8.jpg"  > <br> Fig. 23 The user interface on Wechat</div></td>
-        <td><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali9.jpg"  > <br> Fig. 24 The user interface on Wechat</div></td>
+        <td><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali8.jpg"  > <br> Fig. 25 The user interface on Wechat</div></td>
+        <td><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali9.jpg"  > <br> Fig. 26 The user interface on Wechat</div></td>
     </tr>
     <tr>
-        <td colspan="2"><div align=center><img width=60% height=60% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali10.jpg"> <br> Fig. 25 We are testing the pressure of elder peoples in a nursing home</div></td>
+        <td colspan="2"><div align=center><img width=60% height=60% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/yali10.jpg"> <br> Fig. 27 We are testing the pressure of elder peoples in a nursing home</div></td>
     </tr>
 </table>
 
@@ -106,11 +117,11 @@ To relieve the great pressure at instructors' office hours, I developed an AI te
 
 <table>
     <tr>
-        <td colspan="2"><div align=center><img width=60% height=60% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/chatter3.png"> <br> Fig. 26 The diagram of the chatter algorithm</div></td>
+        <td colspan="2"><div align=center><img width=60% height=60% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/chatter3.png"> <br> Fig. 28 The diagram of the chatter algorithm</div></td>
     </tr>
     <tr>
-        <td><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/chatter1.jpg"> <br> Fig. 27 The public account of the AI robot </div></td>
-        <td><div align=center><img width=100% height=100% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/chatter2.jpg"> <br> Fig. 28 A talk with the AI robot </div></td>
+        <td><div align=center><img width=50% height=50% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/chatter1.jpg"> <br> Fig. 29 The public account of the AI robot </div></td>
+        <td><div align=center><img width=100% height=100% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/chatter2.jpg"> <br> Fig. 30 A talk with the AI robot </div></td>
     </tr>
 </table>
 
@@ -119,10 +130,10 @@ ADALM-PLUTO Software Defined Radio is a portable self-contained RF learning modu
 
 <table>
     <tr>
-        <td colspan="2"><div align=center><img width=60% height=60% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pluto1.png"> <br> Fig. 29 The website of our project</div></td>
+        <td colspan="2"><div align=center><img width=60% height=60% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pluto1.png"> <br> Fig. 31 The website of our project</div></td>
     </tr>
     <tr>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pluto2.png"> <br> Fig. 30 A photo when we are performing communication between two computers </div></td>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pluto3.png"> <br> Fig. 31 A snap shot of the Matlab program </div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pluto2.png"> <br> Fig. 32 A photo when we are performing communication between two computers </div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pluto3.png"> <br> Fig. 33 A snap shot of the Matlab program </div></td>
     </tr>
 </table>
