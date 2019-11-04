@@ -1,33 +1,30 @@
 # e-Portfolio of Guang Yang
 
-Hello! Here are some examples of my previous work.
+Hi! Thanks for your coming, here are the detail for most of my previous projects. Also, include my hobby in the spare time.
 
 ## Software Quality Assurance (QA) Developer Intern at Shanghai ByteDance Technology Co., Ltd.
-This summer, I worked as a software quality assurance intern at Shanghai Bytedance Company (which is famous for launching the TikTok and Douyin APP). In the 5 months, I designed and built a continuous platform for automated testing in the large-scale system by **Jenkins** in **JAVA**. The code can be found at [here](https://github.com/GuangYang98/testGuang).
+From the begin of March to the end of Augest In 2019, I was very honor to work as a Automated Software Quality Assurance Developer intern at Shanghai Bytedance Company (which is famous for launching the [TikTok](https://www.tiktok.com/en/) and [Douyin](https://www.douyin.com/) APP which has 3.2 billion users in China). In these more than 6 months, I devoted myself into the center-platform tesing team with the agile development enviornment. I had worked with website quality control on  front-end and back-end, also tested the quality on mobile end. Further due to the large scale of data, we mostly designed and built coresponding continuous platform for automated testing by **Jenkins** in **JAVA** or python scripts. The original code for the outstanding projects can be found at [here](https://github.com/GuangYang98/testGuang).
 
-Expertly utilized tools to track bugs, I implemented and achieved 16 times accelerate automated test evaluation on 1,400,000 data by using **multi-process in Python and MySQL**. I also used **Bash script** to facilitate my development. Various algorithms were tested by me in OCR text recognition, image recognition and data mining, reduced 5 times manpower in 3 systems. 
+Expertly utilized tools to track bugs, I implemented and achieved 16 times accelerate automated test evaluation on 1,400,000 data by using **multi-process in Python and MySQL**. I also used **Bash script** to facilitate my development. Various algorithms were tested by me in OCR text recognition, image recognition and data mining, reduced 5 times manpower in 3 systems. I had experience working with business and development team to prioritize assignments and manage risks/issues to ensure successful delivery with high quality. Finally, I successfully launched 6 public web services in total.
 
-By the way ,I also collaborated with business and development team to prioritize assignments and manage risks/issues to ensure successful delivery with high quality. Finally, I successfully launched 6 public web services in total.
-
+During the memorable time working in Bytedance, I had got such a lot friends and the charishable approbate from the team leader Zhi Li and the mentor Min Geng, Fig 1 and Fig 2 are the pictures when I was coming to the US, they prepared the surprise for me and wrote the best wishes for me from every person I had collaborated with. 
 <table>
     <tr>
         <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/bytedance1.jpg" > <br> Fig. 1 Group photo (I am at the center) </div></td>
         <td><div align=center><img width=85% height=85% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/bytedance2.jpg"  > <br> Fig. 2 Got a warm letter from my colleagues </div></td>
     </tr>
     <tr>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/bytedance3.png" > <br> Fig. 3 A diagram from my work report </div></td>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/bytedance4.png"  > <br> Fig. 4 Snapshot of my code</div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/bytedance3.png" > <br> Fig. 3 A diagram of OCR agorithm automated testing by python </div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/bytedance4.png"  > <br> Fig. 4 Using Jmeter in Java to simulate users' interaction</div></td>
     </tr>
-    
 </table>
 
+## 4 months' Research Intern at EMC Lab, Missouri University of Science and Technology, MO
+During the 2018 Summer, I got an opportunity to be a research intern at EMC Lab in MST. EMC lab in MST is leading **the world’s leading technology, Emission Source Microscopy** and every graduates from EMC can get the work in the top company, like Apple, google, amazon, facebook, intel etc.
 
-## Research Intern at Electromagnetic Compatibility Lab, Missouri University of Science and Technology
-During the last summer, I was a research intern at EMC Lab in MST. I led the research of **the world’s leading technology, Emission Source Microscopy**, under supervision of Prof. Victor Khilkevich My research work mainly focus on applying the computer vision method for 3D map and trajectories reconstruction.
+I led the research of , under supervision of Prof. Victor Khilkevich(shon in figure 6) My research work mainly focus on applying the computer vision method for 3D map and trajectories reconstruction, the figure 7 and 8 are shown for the setup and experiment scheme. 
 
-I designed SLAM algorithms to realize real-time positioning by using Kinect V2, and achieve 0.2 cm accuracy. A MATLAB program also wrote by me for robust UDP transmission with Vector Network Analyzer. I implemented real-time source plane estimation with friendly GUI (as shown in Fig. 5)
-
-By the way, I also promoted the development of circuit board surface current measurement technology during the internship.
+I designed SLAM algorithms to realize real-time positioning by using Kinect V2, and achieve 0.2 cm accuracy. A MATLAB program also wrote by me for robust UDP transmission with Vector Network Analyzer. I implemented real-time source plane estimation with friendly GUI. I also promoted the development of circuit board surface current measurement technology during the internship.
 
 <table>
     <tr>
@@ -39,11 +36,12 @@ By the way, I also promoted the development of circuit board surface current mea
         <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/EMC5.png"  > <br> Fig. 8 The experiment scheme diagram</div></td>
     </tr>
     <tr>
-        <td colspan="2"><div align=center><img width=60% height=60% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/EMC3.gif"> <br> Fig. 9 The animation of my program</div></td>
+        <td colspan="2"><div align=center><img width=60% height=60% src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/EMC3.gif"> <br> Fig. 9 The GUI animation of my program in matlab </div></td>
     </tr>
 </table>
 
-## The first publication and National 1st Prize in Undergraduate Innovation Training Program
+## Two patterns with a publication for indoor localization research
+### Won first publication and National 1st Prize in Undergraduate Innovation Training Program
 Junhong Lin, Bang Wang, **Guang Yang** and Mu Zhou. **Indoor Localization Based on Weighted Surfacing from Crowdsourced Samples [J].** _Sensors_ 2018, 18(9), 2990.SCIE. [The link of the paper](http://www.mdpi.com/1424-8220/18/9/2990)  
 
 In this program, I conducted research concerning high-precision indoor positioning system based on reliable sample selection and surface fitting. I used MATLAB to write programs for data processing and experiment simulation.
@@ -67,7 +65,7 @@ I led a project called HUIYAN Classroom Intelligent Monitor System, which monito
 
 <table>
     <tr>
-        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/huiyan1.png" > <br> Fig. 14 Visualization of system test result </div></td>
+        <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/huiyan1.png" > <br> Fig. 14 Visualization of system test result showing on the website by html+css </div></td>
         <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/huiyan2.png"  > <br> Fig. 15 Detection network structure </div></td>
     </tr>
 </table>
@@ -137,3 +135,10 @@ ADALM-PLUTO Software Defined Radio is a portable self-contained RF learning modu
         <td><div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/pluto3.png"> <br> Fig. 33 A snap shot of the Matlab program </div></td>
     </tr>
 </table>
+
+
+
+# spare time hobby
+## cooking 
+I like cooing. I had learned full-time cooking for 1 month in Xindongfang cooking school, and mastered 36 dishes.
+<div align=center><img src="https://github.com/GuangYang1143252657/e-Portfolio/blob/master/Pic/cooking.png"></div>
