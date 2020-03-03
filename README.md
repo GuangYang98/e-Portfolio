@@ -5,6 +5,10 @@ Hi! Thanks for your coming, here are the detail for most of my previous projects
 ## Update! MIT BOIB group's website rebuild project--MIT, EECS, RLE
 Rebuilding the website from the front end to the back end and create the database for the lab. Using Vue framework for the website building, Vue.js for the fron-end,PHP for the back-end, Mysql for the database work. It is still construction but right now you can visit it [here](https://www.rle.mit.edu/boib/labserver/frontend/dist/#/Home). 
 
+## The course works in Umass from 9/2019 to 5/2021
+[CS651-Compiler](https://github.com/GuangYang98/CS651-Compiler)
+[CS651-Compiler](https://github.com/GuangYang98/Pizza-Shop-Website)
+
 ## Software Quality Assurance (QA) Developer Intern at Shanghai ByteDance Technology Co., Ltd.
 From the begin of March to the end of Augest In 2019, I was very honor to work as a Automated Software Quality Assurance Developer intern at Shanghai Bytedance Company (which is famous for launching the [TikTok](https://www.tiktok.com/en/) and [Douyin](https://www.douyin.com/) APP which has 3.2 billion users in China). In these more than 6 months, I devoted myself into the center-platform tesing team with the agile development enviornment. I had worked with website quality control on  front-end and back-end, also tested the quality on mobile end. Further due to the large scale of data, we mostly designed and built coresponding continuous platform for automated testing by **Jenkins** in **JAVA** or python scripts. The original code for the outstanding projects can be found at [here](https://github.com/GuangYang98/e-Portfolio).
 
