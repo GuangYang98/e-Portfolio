@@ -2,7 +2,7 @@
 
 Hi! Thanks for your coming, here are the detail for most of my previous projects. Also, include my hobby in the spare time.
 
-##Update! MIT BOIB group's website rebuild project--MIT, EECS, RLE
+## Update! MIT BOIB group's website rebuild project--MIT, EECS, RLE
 Rebuilding the website from the front end to the back end and create the database for the lab. Using Vue framework for the website building, Vue.js for the fron-end,PHP for the back-end, Mysql for the database work. It is still construction but right now you can visit it [here](https://www.rle.mit.edu/boib/labserver/frontend/dist/#/Home). 
 
 ## Software Quality Assurance (QA) Developer Intern at Shanghai ByteDance Technology Co., Ltd.
