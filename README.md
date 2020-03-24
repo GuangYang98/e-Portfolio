@@ -3,7 +3,7 @@
 Hi! Thanks for your coming, here are the detail for most of my previous projects. Also, include my hobby in the spare time.
 
 ## Volunteer as a website developer for my friend's Startup BeenthereBuddy
-Help my friend's startup BeenthereBuddy to create patial of the website in Vue framework and Javascript, and test it, also automated adaption for all devices, including Android, IOS, computer, pad. 
+Help my friend's startup BeenthereBuddy to create patial of the website in Vue framework and Javascript, and test it, also automated adaption for all devices, including Android, IOS, computer, pad. It is still construction but right now you can visit it [here](http://39.97.110.229/family).
 
 ## Update! MIT BOIB group's website rebuild project--MIT, EECS, RLE
 Rebuilding the website from the front end to the back end and create the database for the lab. Using Vue framework for the website building, Vue.js for the fron-end,PHP for the back-end, Mysql for the database work. It is still construction but right now you can visit it [here](https://www.rle.mit.edu/boib/labserver/frontend/dist/#/Home). 
