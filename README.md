@@ -1,11 +1,12 @@
 # e-Portfolio of Guang Yang
 
-Hi! Thanks for your coming, here are the detail for most of my previous projects. Also, include my hobby in the spare time.
+Hi! Thanks for your coming, here are the details for my projects. Also, include my hobby in the spare time.
 
-## Volunteer as a website developer for my friend's Startup BeenthereBuddy
-Help my friend's startup BeenthereBuddy to create patial of the website in Vue framework and Javascript, and test it, also automated adaption for all devices, including Android, IOS, computer, pad. It is still construction but right now you can visit it [here](http://39.97.110.229/family).
 
-## Update! MIT BOIB group's website rebuild project--MIT, EECS, RLE
+## Volunteer as a website developer for my friend's Startup BeenthereBuddy  -- 3/2020-3/2020
+Help my friend's startup BeenthereBuddy to create patial of the website in Vue framework and Javascript, and test it, also automated adaption for all devices, including Android, IOS, computer, pad. It is still construction but right now you can visit it [https://beentherebuddy.com/](https://beentherebuddy.com/).
+
+## Update! MIT BOIB group's website rebuild project--MIT, EECS, RLE -- 12/2019-5/2020
 Rebuilding the website from the front end to the back end and create the database for the lab. Using Vue framework for the website building, Vue.js for the fron-end,PHP for the back-end, Mysql for the database work. It is still construction but right now you can visit it [here](https://www.rle.mit.edu/boib/labserver/frontend/dist/#/Home). 
 
 ## The course works in Umass from 9/2019 to 5/2021
@@ -13,7 +14,7 @@ Rebuilding the website from the front end to the back end and create the databas
 
 #### [CS637 - Database-backed Websites and Web Services](https://github.com/GuangYang98/Pizza-Shop-Website)
 
-## Software Quality Assurance (QA) Developer Intern at Shanghai ByteDance Technology Co., Ltd.
+## Software Quality Assurance (QA) Developer Intern at Shanghai ByteDance Technology Co., Ltd. -- 3/2019-8/2019
 From the begin of March to the end of Augest In 2019, I was very honor to work as a Automated Software Quality Assurance Developer intern at Shanghai Bytedance Company (which is famous for launching the [TikTok](https://www.tiktok.com/en/) and [Douyin](https://www.douyin.com/) APP which has 3.2 billion users in China). In these more than 6 months, I devoted myself into the center-platform tesing team with the agile development enviornment. I had worked with website quality control on  front-end and back-end, also tested the quality on mobile end. Further due to the large scale of data, we mostly designed and built coresponding continuous platform for automated testing by **Jenkins** in **JAVA** or python scripts. The original code for the outstanding projects can be found at [here](https://github.com/GuangYang98/e-Portfolio).
 
 Expertly utilized tools to track bugs, I implemented and achieved 16 times accelerate automated test evaluation on 1,400,000 data by using **multi-process in Python and MySQL**. I also used **Bash script** to facilitate my development. Various algorithms were tested by me in OCR text recognition, image recognition and data mining, reduced 5 times manpower in 3 systems. I had experience working with business and development team to prioritize assignments and manage risks/issues to ensure successful delivery with high quality. Finally, I successfully launched 6 public web services in total.
