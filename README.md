@@ -1,6 +1,6 @@
 # e-Portfolio of Guang Yang
 
-Hi! Thanks for your coming. I am Gianna Guang Yang, a graduate student from Umass Boston. I am experenced in Java, Javascript and Python. I've also participated in several internships and crafted some web Apps and mobile Apps in the past time. I expect to graduate in May 2021, and look for the full time software engineer position (new graduate) now. My resume is [here](https://drive.google.com/file/d/1Jzsq9giKXiOk2n6mkSzPc5J7Mg2jUzhk/view?usp=sharing). There are the details for my projects in this portfolio page. Also, include my hobby in the spare time. 
+Hi! Thanks for your coming. I am Gianna Guang Yang, a graduate student from Umass Boston. I am experenced in Java, Javascript and Python. I've also participated in several internships and crafted some web Apps and mobile Apps in the past time. I expect to graduate in May 2021, and look for the full time software engineer position (new graduate) now. My resume is [here](https://drive.google.com/file/d/1NPBHgX1OHPSlGs-a5fKcjlyJYPQkUlqY/view?usp=sharing). There are the details for my projects in this portfolio page. Also, include my hobby in the spare time. 
 
 I am open to any discussion and suggestions. Please contact me in any time if you have any good ideas and information.
 
